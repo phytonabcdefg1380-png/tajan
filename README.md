@@ -45,7 +45,9 @@ The project was designed and implemented to provide a **fast, accurate, customiz
 tajan/
 │
 ├── README.md
-├── requirements.txt
+├── LICENSE            
+├── .gitignore         
+├── requirements.txt  
 │
 ├── Model_learning_code_and_files/
 │   ├── tajan.ipynb
