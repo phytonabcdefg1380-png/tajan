@@ -140,4 +140,25 @@ Email : phytonabcdefg1380@gmail.com
 
 ---
 
+## ⭐ Show Your Support
+
+If you find **Tajan** useful or interesting, please consider giving it a **star** ⭐ on GitHub. Your support helps increase the project's visibility and motivates further development.
+
+
+---
+
+## 📢 Spread the Word
+
+If this project helped you in any way, share it with others!  
+You can:
+
+- ⭐ Star the repository on GitHub  
+- 🐦 Share it on Twitter / X  
+- 🔗 Link to it in your portfolio or blog  
+- 📧 Send it to colleagues and friends
+
+---
+
+> 💡 *Every star and share makes a difference. Thank you!*
+
 > 💡 *"A smarter future is built today."*
